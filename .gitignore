@@ -1,0 +1,11 @@
+# Exclude password file
+PASSWORDS.txt
+
+# Exclude original unencrypted exercise folders
+Exercises/
+Solutions/
+
+# Exclude Python script
+encrypt_and_commit.py
+
+# Note: Slides/ folder IS included in the repo (not encrypted)
